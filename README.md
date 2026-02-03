@@ -1,23 +1,23 @@
-# 💳 Razorpay Clone – MERN Stack
+# Razorpay Clone – MERN Stack
 
 A full-stack Razorpay payment gateway clone built using the **MERN stack**.  
 This project demonstrates **secure online payments**, **dynamic amount handling**, and **payment history management** similar to real-world payment gateways.
 
 ---
 
-## 🚀 Live Features
+#Live Features
 
-- 💰 Dynamic payment amount (user-defined)
-- 🔐 Razorpay payment gateway integration
-- ✅ Secure payment verification
-- 🧾 Payment history stored in MongoDB
-- 📜 Payment history page (React)
-- 🧭 Navbar with routing (Home & History)
-- 🎨 Clean Razorpay-inspired UI
+-  Dynamic payment amount (user-defined)
+-  Razorpay payment gateway integration
+-  Secure payment verification
+-  Payment history stored in MongoDB
+-  Payment history page (React)
+-  Navbar with routing (Home & History)
+-  Clean Razorpay-inspired UI
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -34,5 +34,5 @@ This project demonstrates **secure online payments**, **dynamic amount handling*
 
 ---
 
-## 📁 Project Structure
+
 
